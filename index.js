@@ -84,7 +84,7 @@ document.querySelector(".find").addEventListener("click",function()
                 document.querySelector(".ico").src = "img/m.png";
                 break;
             case 'e':
-                document.querySelector(".res").innerText ="Enimes";
+                document.querySelector(".res").innerText ="Enemies";
                 document.querySelector(".ico").src = "img/e.png";
                 break;
             case 's':
